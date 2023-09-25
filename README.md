@@ -5,7 +5,7 @@
 2. Clone this repository
 3. Run `python manage.py createsuperuser` to create admin account
 4. Run `docker-compose up --build`
-5. Go to ` http://127.0.0.1:8000/` to check if app is working
+5. Go to `http://127.0.0.1:8000/` to check if app is working
 
 
 * You can manage the application from `http://127.0.0.1:8000/admin/`
